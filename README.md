@@ -60,15 +60,8 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=qeto25&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qeto25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
----
-
-<div align="center">
-  <sub>Built with passion & AI collaboration by Amir Safiy. Always open for creative opportunities and web projects.</sub>
+  <img src="https://streak-stats.demolab.com/?user=qeto25&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
