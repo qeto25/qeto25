@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Amir Safiy 👋
-### DKV Student & AI-Assisted Web Builder
+### Visual Communication Design & AI-Assisted Digital Product Builder
 
 <p align="center">
   <a href="https://linkedin.com/in/amir-safiy-29938b387">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Batam, Indonesia 🇮🇩 • Bridging visual design and modern web technology using AI tools, Next.js, and Canva.
+  Batam, Indonesia 🇮🇩 • Synthesizing Visual Aesthetics, AI Workflows, and Modern Web Engineering.
 </p>
 
 ---
@@ -25,28 +25,51 @@
 
 ### 🌟 About Me
 
-- 🎨 **Visual & Design**: Majoring in Visual Communication Design (DKV), focusing on modern layouts, design systems, and digital assets.
-- ⚡ **Web Engineering**: Crafting responsive, interactive, and performant web apps with **Next.js**, **React**, and **Tailwind CSS**.
-- 🤖 **AI-Native Workflow**: Orchestrating AI models and agentic workflows to build, iterate, and ship digital products rapidly.
+- 🎨 **Visual & Design Direction**: Majoring in Visual Communication Design (DKV). Focused on layouts, brand identity, and clean visual assets using **Canva** & digital suites.
+- ⚡ **Web & Product Engineering**: Building responsive, interactive, and user-centric web applications with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
+- 🤖 **AI-Native Orchestration**: Leveraging LLMs, autonomous agent workflows, and AI generation tools to rapidly prototype, iterate, and deliver real-world digital solutions.
+- 🎯 **Continuous Growth**: Constantly experimenting at the intersection of creative media, software development, and generative intelligence.
 
 ---
 
-### 🛠️ Tech Stack & Creative Tools
+### 🛠️ Tech Stack & Creative Arsenal
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%"><strong>Frontend & Web</strong></td>
+    <td align="center" width="33%"><strong>Creative & Visual Design</strong></td>
+    <td align="center" width="33%"><strong>AI & Automation</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Visual_Design-FF61F6?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Brand_Identity-FF9900?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI_Workflows-7928CA?style=flat-square&logo=openai&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Agentic_AI-0052CC?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-00B4D8?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Project: Creative Hub
+### 🚀 Featured Projects
 
-> **A modern marketplace and management platform tailored for student and freelance creators.**
+#### 1. [Creative Hub](https://creative-hub-sandy.vercel.app)
+> **A curated marketplace & management platform designed for student creators and freelance talents.**
+- 💻 **Tech Stack**: Next.js, TypeScript, Tailwind CSS, Supabase
+- 🔗 **Repository**: [qeto25/creative-hub](https://github.com/qeto25/creative-hub)
+- ✨ **Key Highlights**: Role-based order tracking, talent discovery, responsive dark theme, integrated booking flow.
 
 <p align="center">
   <a href="https://creative-hub-sandy.vercel.app">
@@ -54,9 +77,10 @@
   </a>
 </p>
 
-- 🔗 **Live Demo**: [creative-hub-sandy.vercel.app](https://creative-hub-sandy.vercel.app)
-- 💻 **Source Code**: [github.com/qeto25/creative-hub](https://github.com/qeto25/creative-hub)
-- 💡 **Key Features**: Dynamic booking system, client order tracker, talent showcases, responsive dark-mode UI.
+#### 2. [IPTEK Showcase & Administration Simulation](https://github.com/qeto25/iptek-showcase)
+> **Administrative digitization and visual communication project for student council science & tech divisions.**
+- 💻 **Tools**: Document design, data processing, and visual asset production (Word, Excel, Canva).
+- 🔗 **Repository**: [qeto25/iptek-showcase](https://github.com/qeto25/iptek-showcase)
 
 ---
 
